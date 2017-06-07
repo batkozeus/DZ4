@@ -1,0 +1,45 @@
+div {
+	padding: 10px;
+	
+}
+.fullwrap {
+  	background: black;
+  	width: 500px;
+}
+
+.header {
+	height: 50px;
+	background: white;
+	margin: 5px;
+}
+
+.wrap {
+	background: yellow;
+	margin: 10px 5px;
+}
+
+.main {
+	width: 50%;
+	min-height: 280px;
+	background: blue;
+	float: left;
+}
+
+.sidebar {
+	width: 35%;
+	min-height: 280px;
+	background: green;
+	float: right;
+	margin-right: 5px;
+}
+
+.clearfix {
+	clear: both;
+	padding: 0;
+}
+
+.footer {
+	height: 100px;
+	background: red;
+	margin: 5px;
+}

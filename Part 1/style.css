@@ -1,0 +1,53 @@
+/*Task 1*/
+
+.task1{
+  width: 400px;
+}
+
+.task1 .img1 {
+	float: left;
+}
+
+.task1 .img2 {
+	float: right;
+}
+
+/*Task 2*/
+
+.parent-task2 {
+	width: 340px;
+	min-height: 20px;
+	background: #FF6600;
+	margin-top: 50px;
+}
+.parent-task2 .rows {
+  	width: 100px;
+  	height: 100px;
+  	background: #00F1FF;
+  	margin: 5px;
+	float: left;
+}
+
+.parent-task2 .clearfix {
+  clear:both;
+}
+
+/*Task 3*/
+
+.parent-task3 {
+  width: 440px;
+  min-height: 20px;
+  background: #FF6600;
+  margin-top: 50px;
+}
+.parent-task3 .rows {
+  width: 100px;
+  height: 100px;
+  background: #00F1FF;
+  margin: 5px;
+  float: right;
+}
+
+.parent-task3 .clearfix {
+  clear:both;
+}
